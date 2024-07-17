@@ -20,12 +20,4 @@ export const products = [
     description: "yo i love these shoes bro",
     slug: "frozen-moments",
   },
-//   {
-//     id: 3,
-//     name: 'Nike Sb "Powerpuff Girls"',
-//     price: 240,
-//     image: PowerPuff,
-//     description: "yo i love these shoes bro",
-//     slug: "powerpuff-girls",
-//   },
 ];
